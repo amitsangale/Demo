@@ -1,4 +1,4 @@
 # Demo
 This is my first repository
 <br>
-Auther - Amit Sangale
+Auther - Amit Sangale (AS)
